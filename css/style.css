@@ -1,0 +1,22 @@
+.content {
+        max-width: 1440px;
+        margin: auto;
+      }
+
+.topRow {
+    width: 100%;
+    margin: auto;
+    background-color: #50797C;
+}
+
+#table01 {
+  width: 1440px;
+  margin: auto;
+  background-color: #50797C;  
+}
+
+#table03 {
+  width: 1440px;
+  margin: auto;
+  background-color: #50797C;  
+}
